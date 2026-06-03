@@ -52,7 +52,7 @@ export function GameHub({ progress, onSelectLevel }: Props) {
           <span style={{ color: '#4db3ff', fontFamily: 'monospace', fontSize: '0.7rem', letterSpacing: 2 }}>PYTHAGOREAN BRIDGE ENGINEER</span>
         </div>
         <h1 style={{ color: '#e2e8f0', fontSize: '1.85rem', lineHeight: 1.2, textAlign: 'center', marginBottom: 8 }}>
-          勾股桥工程师
+          勾股桥梁工程师
         </h1>
         <p style={{ color: '#334155', fontSize: '0.82rem', textAlign: 'center' }}>
           通过建桥掌握勾股定理 · 三个渐进关卡
